@@ -76,7 +76,7 @@ Full Stack Developer with hands-on experience in backend development using Java,
   <br><br>
   
   <!-- Custom Static Top Languages -->
-  <img src="https://i.ibb.co/NpKxCkL/custom-top-langs.png" alt="Top Languages" width="500"/>
+  <img src="./top-langs-custom.png" alt="Top Languages" width="500"/>
 </p>
 
 ---
