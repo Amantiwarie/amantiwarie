@@ -66,8 +66,6 @@ Full Stack Developer with hands-on experience in backend development using Java,
 
 ## 📊 Development Metrics
 
-## 📊 Development Metrics
-
 <p align="center">
   <!-- GitHub Streak -->
   <img src="https://streak-stats.demolab.com?user=Amantiwarie&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
@@ -77,8 +75,8 @@ Full Stack Developer with hands-on experience in backend development using Java,
   <img src="https://github-readme-stats.vercel.app/api?username=Amantiwarie&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Activity%20Overview&hide=contribs" alt="Total Commits & Stats" width="500"/>
   <br><br>
   
-  <!-- Top Languages (Java prioritized, TypeScript hidden) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amantiwarie&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Top%20Languages&hide=typescript" alt="Top Languages" width="500"/>
+  <!-- Custom Static Top Languages -->
+  <img src="https://i.ibb.co/NpKxCkL/custom-top-langs.png" alt="Top Languages" width="500"/>
 </p>
 
 ---
@@ -93,3 +91,4 @@ Full Stack Developer with hands-on experience in backend development using Java,
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/amantiwarie)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/amantiwarie)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:attiwari261@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amantiwarie)
