@@ -7,14 +7,18 @@
 
 ---
 
-## 💼 Professional Snapshot
+## 🧾 Profile Summary
 
-- 🎓 **B.Tech in Computer Science (2020–2024)** from Techno India University  
-- 💻 Currently enrolled in **AccioJob Full Stack Program** (Java, Spring Boot, MySQL, React)  
-- 🧠 Solved **450+ DSA problems** on platforms like **LeetCode**  
-- ☁️ Experience with **AWS Cloud Services** (S3, Redshift, SageMaker)  
-- 🔒 Skilled in building **secure, scalable REST APIs** and enterprise-grade systems  
-- 🏏 Cricket team captain — led to championship victory!
+Full Stack Developer with hands-on experience in backend development using Java, Spring Boot, and PostgreSQL. Strong grasp of OOP principles, REST API design, and scalable software architecture. Solved over **450+ DSA problems** across platforms like LeetCode, GFG, NeetCode, and AccioPortal. Passionate about building impactful systems and writing clean, maintainable code.
+
+---
+
+## 🎓 Academic Background
+
+- **B.Tech in Computer Science Engineering** – Techno India University, Kolkata (2020–2024)  
+  📊 CGPA: **8.34 / 10**
+- **Higher Secondary (Science)** – St. Mary’s Convent School, Sagar (2020)  
+  📈 Percentage: **80%**
 
 ---
 
@@ -34,12 +38,15 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Spring Initializr](https://img.shields.io/badge/Spring_Initializr-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ---
 
 ## 💼 Project Portfolio
 
-### 🛒 [Swiggy InstaMart Delivery System](https://github.com/Amantiwarie/shopping_delivery)
+### 🛒 [Grocery Delivery System](https://github.com/Amantiwarie/shopping_delivery)
 > **Stack:** Spring Boot, PostgreSQL, React  
 > Designed a multi-role grocery delivery system with cart, warehouse control, delivery tracking, and analytics dashboard.
 
@@ -60,11 +67,11 @@
 ## 📊 Development Metrics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amantiwarie&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Amantiwarie&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Total Commits & Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amantiwarie&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amantiwarie&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amantiwarie&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Activity%20Overview&hide=contribs" alt="Total Commits & Stats" width="500"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amantiwarie&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Top%20Languages&hide=typescript" alt="Top Languages" width="500"/>
 </p>
 
 ---
