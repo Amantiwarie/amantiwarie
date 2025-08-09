@@ -62,8 +62,6 @@ Full Stack Developer with hands-on experience in backend development using Java,
 > **Stack:** Java (OOP Design)  
 > Implemented core logic for expense splitting using modular object-oriented architecture.
 
----
-
 ## 📈 Development Metrics
 <h3 align="center">🔥 Current GitHub Streak:</h3>
 <p align="center">
@@ -71,21 +69,19 @@ Full Stack Developer with hands-on experience in backend development using Java,
   <img src="https://streak-stats.demolab.com?user=Amantiwarie&theme=tokyonight&hide_border=true" width="500" />
   <br><br>
 
-  <!-- Total Commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Amantiwarie&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs" width="500"/>
+  <!-- Total Commits Only -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Amantiwarie&show_icons=true&count_private=true&theme=tokyonight&hide=prs,issues,stars,repos,contribs" width="500" />
   <br><br>
 
   <!-- Top Languages Pie Chart -->
-  <img src="./top-langs-pie.png" width="400"/>
+  <img src="./top-langs-pie.png" width="400" />
 </p>
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amantiwarie&show_icons=true&theme=tokyonight" width="500" />
-</p>
 ---
 
 <h2 align="center" style="font-size:28px">🚀 <strong>Building today what others use tomorrow.</strong> 🚀</h2>
+
+
 
 ---
 
