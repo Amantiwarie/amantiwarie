@@ -64,21 +64,25 @@ Full Stack Developer with hands-on experience in backend development using Java,
 
 ---
 
-## 📊 Development Metrics
-
+## 📈 Development Metrics
+<h3 align="center">🔥 Current GitHub Streak:</h3>
 <p align="center">
-  <!-- GitHub Streak Badge -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amantiwarie&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=Amantiwarie&theme=tokyonight&hide_border=true" width="500" />
   <br><br>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Amantiwarie&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=GitHub%20Activity%20Overview" alt="GitHub Stats" width="500" />
+  <!-- Total Commits -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Amantiwarie&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=contribs" width="500"/>
   <br><br>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amantiwarie&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="500" />
+  <!-- Top Languages Pie Chart -->
+  <img src="./top-langs-pie.png" width="400"/>
 </p>
 
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amantiwarie&show_icons=true&theme=tokyonight" width="500" />
+</p>
 ---
 
 <h2 align="center" style="font-size:28px">🚀 <strong>Building today what others use tomorrow.</strong> 🚀</h2>
