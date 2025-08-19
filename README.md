@@ -66,7 +66,7 @@ Full Stack Developer with hands-on experience in backend development using Java,
 <h3 align="center">🔥 Current GitHub Streak:</h3>
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Amantiwarie&theme=tokyonight&hide_border=true" width="500" />
+  <img src=" width="500" />
   <br><br>
 
   <!-- Total Commits Only -->
